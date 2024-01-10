@@ -168,7 +168,7 @@ export default function Main() {
       <div className="containers mx-3 ">
         <div
           className="mt-4 ms-5 d-flex"
-          style={{ overflowX: "scroll", maxWidth: "2000px" }}
+          style={{ overflowX: "auto", maxWidth: "2000px" }}
         >
           <div className="d-flex">
             <div className="task-create-box">
