@@ -1,0 +1,55 @@
+.container1{
+    display: flex;
+    /* background-color: rgb(174, 101, 243); */
+    background: url(./bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-align: center; */
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;  
+   
+
+}
+.registerpage{
+    display: flex;
+    /* background-color: red; */
+    text-align: left;
+    justify-content: center;
+    /* min-height: 100vh; */
+    flex-direction: column; 
+    padding: 3rem;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgb(230, 174, 232);
+    /* margin: 2rem; */
+
+}
+.fa-lock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.reg-sub-btn{
+    border: none;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.reg-sub-btn:hover{
+    color: aqua;
+    background-color: red;
+}
+.reg-btn{
+    color: black;
+    text-decoration: underline;
+    border: none;
+    margin: 20px;
+    cursor: pointer;
+    background: none;
+    color: red;
+}

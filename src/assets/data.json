@@ -1,0 +1,2603 @@
+[
+    {
+        "hotelBasicInfo": {
+            "hotelId": 994895,
+            "masterHotelId": 994895,
+            "hotelName": "Shinagawa Prince Hotel",
+            "hotelEnName": "Shinagawa Prince Hotel",
+            "hotelImg": "https://aw-d.tripcdn.com/images/1mc4z12000bl852fu6DAF_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/1mc4z12000bl852fu6DAF_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/1mc4z12000bl852fu6DAF_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "4 Chome-10-30",
+            "superStar": 1,
+            "favorityCount": 39650,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 3,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 180,
+            "originPrice": "",
+            "onlineTaxPrice": "221",
+            "onlineAndShopTaxPrice": "222.682",
+            "isEncrypt": false,
+            "payAtHotelTax": 8,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 32 mins ago"
+                }
+            ],
+            "openYear": "1994",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 2
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 223{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.3",
+            "commentDescription": "Very Good",
+            "commenterNumber": "1,198 reviews",
+            "subScore": [
+                {
+                    "number": "4.5",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.3",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.3",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.2",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1470248682,
+            "shadowId": 0,
+            "name": "",
+            "adult": 2,
+            "physicalRoomName": "Main Tower Twin Room, Non-Smoking (17th-27th floors)",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_twobeds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1.1m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near JR Shinagawa Station | Shinagawa",
+            "positionName": "Near JR Shinagawa Station|Shinagawa",
+            "positionInfo": "5.5 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.62796,
+                "lng": 139.73639,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Shinagawa"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.62796",
+                    "longitude": "139.73639",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 5.469942
+        },
+        "minRoomInfo": {
+            "roomId": 1470248682,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Easy to get around|Delicious breakfast",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204954"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAOPayMTFJMEkxMTBKLWMiePV2469rEKMRgZ7RSy-NjM62nJdX1zANMXBE0TvPbzPIYBnEqMUJwMQNITfdRB0Uy1lmjT7toMTG8fd-YwSLJMYZcCSDOfvOQiKXHC58eDPHQcNRqD0neVI0geePHcQ7PF6xeJQ_cxBgwkoPamFCUl35E0Hwd07etkabl530GAGSv_rZMQlzQKTnsF4_o7NRsazZ4CAabrDDkamA4y__0MB4wnGLYwLmFoOLjPaxcTGsfs-mwTLISBj70KgzlNMDJeYGG4xMTxiYnjFxPCJieEXUOrmGqBUEzNDFzPDJGZWjmUKEiyzmBkWMTNI8Zqbm1uYmqSapJoapBorCGls-bRgNZuR0iRGpoiIU4xShuYGhkbG5gamFkYWJnoWJmkWhb7G2b6RnoZWzFKMbh6sQWxmLuaWjqZRWlzMXgGRgmBfMXywl2IODXZRvG2y7XrTvWp7LZCc4RO9QyJPL62wT2JNzdONiMho4itg7GLkEGD0YIxgrGB8xQjS8wPkdwDIw-UhzAEAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 703885,
+            "masterHotelId": 703885,
+            "hotelName": "ART HOTEL Narita",
+            "hotelEnName": "ART HOTEL Narita",
+            "hotelImg": "https://aw-d.tripcdn.com/images/0205b120009llf0eeA366_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/0205b120009llf0eeA366_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/0205b120009llf0eeA366_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "700 Kosuge",
+            "superStar": 1,
+            "favorityCount": 5723,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 47,
+            "originPrice": 51,
+            "onlineTaxPrice": "56",
+            "onlineAndShopTaxPrice": "56.15",
+            "isEncrypt": false,
+            "payAtHotelTax": 0,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 15 mins ago"
+                }
+            ],
+            "openYear": "1974",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 56{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.2",
+            "commentDescription": "Very Good",
+            "commenterNumber": "666 reviews",
+            "subScore": [
+                {
+                    "number": "4.2",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.1",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.3",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.0",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 7600948,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Standard Double B Non-Smoking",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_double_bed"
+                ],
+                "contentListHover": [
+                    "1 double bed(1.5m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 35714,
+            "cityName": "Narita",
+            "cityNameEn": "Narita",
+            "positionDesc": "Near Narita International Airport, Narita",
+            "positionName": "Near Narita International Airport, Narita",
+            "positionInfo": "54.6 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 35714,
+                "lat": 35.7809238,
+                "lng": 140.3543583,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Near Narita International Airport, Narita"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.7809238",
+                    "longitude": "140.3543583",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 54.6393443
+        },
+        "minRoomInfo": {
+            "roomId": 7600948,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "",
+                "tagTitle": "DISCOUNTPERCENT",
+                "tagId": 90001,
+                "tagDesc": "",
+                "value": "7",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "Offers pick-up/drop-offs|Close to airport",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "",
+                "tagTitle": "PROMOTION",
+                "tagId": 11600,
+                "tagDesc": "Special Discount",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "discountLabels": [
+            {
+                "type": 20,
+                "text": "−7%",
+                "value": "7"
+            },
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204954"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAOPaxczFJMEkxMTBKLWemWPLt_PMFr8FHQttua4vvlDi4DlrJhCYzXcI4ClkAIGGZIdJjNacYLbJAQdBMMNoj4OSggKLJkSFs4MhjGHxjDOIlWMWiwRLFIMTK0evjgTLJEZbcnRrMML1S0P0fzoK0d8gfthBgwkoe8-afNOZKXQdC1T_DMbe31obGa8vLgAGYInDDkamA4y__0MB4wlG_QVMK_4F7mJi45j4hlGC5RATK8cpFQmWU0wMl5gYbjExPAIKvBCQYHnFxPCJieEXkDdXX4KliZmhi5lhEjMrxwp2CZZZzCwc2hJMi5gZpHjNzc0tTE1STVJNDVKNFYQ0tnxasJrNSGkSI1NExClGKUNzA0MjY3MDUwsjCxM9C5M0i0Jf42zfSE9DK2YpRjcP1iA2Zxc3VwPnKC0uZq-ASIiXGT7YSzGHBrso3jbZdr3pXrW9FkjO8IneIZGnl1bYJ7Gm5ulGRGQ08RUwdjFyCDB6MEYwVjC-YgTp-QEKAACNcor-VQIAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 994639,
+            "masterHotelId": 994639,
+            "hotelName": "Keio Plaza Hotel Tokyo",
+            "hotelEnName": "Keio Plaza Hotel Tokyo",
+            "hotelImg": "https://aw-d.tripcdn.com/images/220v1f000001get5vF2F6_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/220v1f000001get5vF2F6_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/220v1f000001get5vF2F6_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "2 Chome-2-1 Nishi",
+            "superStar": 1,
+            "favorityCount": 35856,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 330,
+            "originPrice": "",
+            "onlineTaxPrice": "412",
+            "onlineAndShopTaxPrice": "415.16",
+            "isEncrypt": false,
+            "payAtHotelTax": 14,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 4 mins ago"
+                }
+            ],
+            "openYear": "1971",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 2
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 415{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 5,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.5",
+            "commentDescription": "Great",
+            "commenterNumber": "1,462 reviews",
+            "subScore": [
+                {
+                    "number": "4.6",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.5",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.5",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.4",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1423089205,
+            "shadowId": 0,
+            "name": "",
+            "adult": 2,
+            "physicalRoomName": "Main Tower Standard Double Room Smoking",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_double_bed"
+                ],
+                "contentListHover": [
+                    "1 queen bed(1.61m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near JR Shinjuku Station | Shinjuku Area",
+            "positionName": "Near JR Shinjuku Station|Shinjuku Area",
+            "positionInfo": "6.7 km from center",
+            "transport": {
+                "type": 7,
+                "distanceDesc": "310 m from Tochomae subway station"
+            },
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.6902544,
+                "lng": 139.6942516,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Shinjuku Area"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.6902544",
+                    "longitude": "139.6942516",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 6.741839200000001
+        },
+        "minRoomInfo": {
+            "roomId": 1423089205,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Great rooms|Large rooms",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204955"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAONaz8TFJMEkxMTBKLWEiWPrnlPLWIUYjQy28Vs8zXLsP_RV407sIgfPQluu64s3nXEI4JnEKMmZBgLzKhwEgYIFtsvKHJxYOR7LSTBNYpThfBO4Q671f7WD4Dr3h1UihyodNBid2Dj-3mWSYMEuzYQsXS0CFFcCmgy20KTMQYMZKH1rLU5pFpj0DMbzt2w2Mp49c-aMz9dlDjsYmQ4w_v4PBYwnGE8xLWBae7jTcBcTG0ffQkYJpkNAxpxDQJ2nmBguMTHcYmJ4xMTwionhExPDL5hUEzNDFzPDJGZWjp0OEiyzmBkWMTNI8Zqbm1uYmqSapJoapBorCGls-bRgNZuR0iRGpoiIU4xShuYGhkbG5gamFkYWJnoWJmkWhb7G2b6RnoZWzFKMbh6sQWwuTs6Ors5RWlzMocEuggxg8MFeCsRThPG0mL0CIg2f6B0SeXpphX0Sa2qebkRERhNfAWMXI4cAowdjBGMF4ytGkJ4fIL8DABPugErKAQAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 1489108,
+            "masterHotelId": 1489108,
+            "hotelName": "Hotel Metropolitan Tokyo Ikebukuro",
+            "hotelEnName": "Hotel Metropolitan Tokyo Ikebukuro",
+            "hotelImg": "https://aw-d.tripcdn.com/images/220c0z000000mxwssAA37_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/220c0z000000mxwssAA37_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/220c0z000000mxwssAA37_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "1 Chome-6-1 Nishiikebukuro",
+            "superStar": 1,
+            "favorityCount": 22117,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 199,
+            "originPrice": "",
+            "onlineTaxPrice": "244",
+            "onlineAndShopTaxPrice": "245.58",
+            "isEncrypt": false,
+            "payAtHotelTax": 7,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 1 min ago"
+                }
+            ],
+            "openYear": "1985",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 2
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 246{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.5",
+            "commentDescription": "Great",
+            "commenterNumber": "1,077 reviews",
+            "subScore": [
+                {
+                    "number": "4.7",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.5",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.5",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.3",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1213963289,
+            "shadowId": 0,
+            "name": "",
+            "adult": 2,
+            "physicalRoomName": "Superior Twin Room Non-Smoking",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_twobeds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1.1m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Ikebukuro Metro Station | Ikebukuro Commercial",
+            "positionName": "Near Ikebukuro Metro Station|Ikebukuro Commercial",
+            "positionInfo": "8.2 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.7284065,
+                "lng": 139.7079708,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Ikebukuro Commercial"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.7284065",
+                    "longitude": "139.7079708",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 8.1927839
+        },
+        "minRoomInfo": {
+            "roomId": 1213963289,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Easy to get around|Near shopping area",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204955"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAONaz8TFJMEkxMTBKLWEiWPmjneHWIQYjQy28Vs8zXI8ewYIpKY5eBqDwL8DDgE8kxilOK8vLrDlas9zEPymEdN_SDTHwYmN49k-RgmWSYwymJIajPilmfBLM-OXZoFJz2C88jFqI-OsmUCQPdNhByPTAcbf_6GA8QTjccYFTE3LO2R3MbFybI6XYDrExMaxeRNQ4ykmhktMDLeYGB4xMbxiYvjExPCLCWpmEzNDFzPDJGZWjuvKEiyzmBkWMTNI8Zqbm1uYmqSapJoapBorCGls-bRgNZuR0iRGpoiIU4xShuYGhkbG5gamFkYWJnoWJmkWhb7G2b6RnoZWzFKMbh6sQWxurqaWRmZRWlzMocEuggxg8MFeCsRThPG0mL0CIg2f6B0SeXpphX0Sa2qebkRERhNfAWMXI4cAowdjBGMF4ytGkJ4fIK8DAKxyZ7TKAQAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 51165873,
+            "masterHotelId": 51165873,
+            "hotelName": "Tokyo Bay Shiomi Prince Hotel",
+            "hotelEnName": "Tokyo Bay Shiomi Prince Hotel",
+            "hotelImg": "https://aw-d.tripcdn.com/images/0227212000a6i1t4e5222_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/0227212000a6i1t4e5222_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/0227212000a6i1t4e5222_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "2 Chome-8-16 Shiomi",
+            "superStar": 1,
+            "favorityCount": 5818,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 221,
+            "originPrice": "",
+            "onlineTaxPrice": "275",
+            "onlineAndShopTaxPrice": "274.83",
+            "isEncrypt": false,
+            "payAtHotelTax": 0,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "VeryClean",
+                    "additionText": "Very Clean 4.7/5"
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 36 mins ago"
+                }
+            ],
+            "openYear": "2020",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 3
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 275{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.7",
+            "commentDescription": "Amazing",
+            "commenterNumber": "355 reviews",
+            "subScore": [
+                {
+                    "number": "4.7",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.7",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.6",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.7",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1224718210,
+            "shadowId": 0,
+            "name": "",
+            "adult": 3,
+            "physicalRoomName": "Natural Twin Room (Triple)",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_multiple_beds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1m wide)",
+                    "1 sofa bed(1m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Shiomi Station | Odaiba",
+            "positionName": "Near Shiomi Station|Odaiba",
+            "positionInfo": "4.9 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.6598924,
+                "lng": 139.8171055,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Odaiba"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.6598924",
+                    "longitude": "139.8171055",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 4.8752583
+        },
+        "minRoomInfo": {
+            "roomId": 1224718210,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Large rooms|Easy to get around",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 3,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204955"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAOPawMTFJMEkxMTBKLWUiaPp_b_jLEKMxgb3GS22yjuKrHN_WDV3hoOnLdf1xQXyhx0CeCYxSnKmgcC2AgdBzZj-Q18X5Dk4sXJ8EpFgmsQow_kmcIdc6_4iB8EgIP1at9BBg9GJjWPtK0YJFpA0SDDQo8xB0BgEskscNJiA0kemMUGkQeZpqOQ4CM6aCQQnMx00mIHSH9cz4pJmgUnPYNz4dZPERsaHVUBHv5jrsIOR-QDj7_9QwHiC8S7jAqYZK69I72Ji4zi-kUOC5RCQ8eEiUOspJoZLTAy3mBgeMTG8YmL4xMTwCyh1-xpQqomZoYuZYRIzK8dfTQmWWcwMi5gZpHjNzc0tTE1STVJNDVKNFYQ0tnxasJrNSGkSI1NExClGKUNzA0MjY3MDUwsjCxM9C5M0i0Jf42zfSE9DK2YpRjcP1iA2IydHRwPzKC0u5tBgF0EGMPhgLwXiKcJ4WsxeAZGGT_QOiTy9tMI-iTU1TzciIqOJr4Cxi5FDgNGDMYKxgvEVI0jPD7DnATUy8DfMAQAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 688630,
+            "masterHotelId": 688630,
+            "hotelName": "Sheraton Grande Tokyo Bay Hotel",
+            "hotelEnName": "Sheraton Grande Tokyo Bay Hotel",
+            "hotelImg": "https://aw-d.tripcdn.com/images/200g14000000wacj885CF_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/200g14000000wacj885CF_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/200g14000000wacj885CF_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "1-9 Maihama",
+            "superStar": 1,
+            "favorityCount": 12925,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 3,
+            "isAdHotel": true,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": true,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 265,
+            "originPrice": "",
+            "onlineTaxPrice": "321",
+            "onlineAndShopTaxPrice": "320.87",
+            "isEncrypt": false,
+            "payAtHotelTax": 0,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 2 hours ago"
+                }
+            ],
+            "openYear": "1988",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 321{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 5,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.5",
+            "commentDescription": "Great",
+            "commenterNumber": "465 reviews",
+            "subScore": [
+                {
+                    "number": "4.6",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.5",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.5",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.3",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1276421728,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Standard 3 Beds, Guest room, 3 Twins, Main Building",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_multiple_beds"
+                ],
+                "contentListHover": [
+                    "2 small double beds(1.4m wide)",
+                    "1 single bed(0.97m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 35751,
+            "cityName": "Urayasu",
+            "cityNameEn": "Urayasu",
+            "positionDesc": "Near JR Maihama Station | Tokyo Disneyland Area, Urayasu",
+            "positionName": "Near JR Maihama Station|Tokyo Disneyland Area, Urayasu",
+            "positionInfo": "11.4 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 35751,
+                "lat": 35.626202899999996,
+                "lng": 139.8782435,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Tokyo Disneyland Area"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.626202899999996",
+                    "longitude": "139.8782435",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 11.4014896
+        },
+        "minRoomInfo": {
+            "roomId": 1276421728,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Large rooms|Delicious breakfast",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 3,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204955"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAONaz8TFJMEkxMTBKLWEiePBmUsPWIQYjQ04LT4JOsq3vg7c0TbXwfNN4A4515BjDgE8kxilOBmAoCHzmYMgiHFA-4mDExtH0xdGCZZJjDIQSa_nEEmHb08cNBiB0qf_IksXvoXqrX_loMEElD5xgAkhzSDxFCLN8OeRgwYzUPrKU2TdTx9BdTM-dNBgAUrfOwuUnsH4rVlrI2OhLdf1xQzzHXYwMh9g_P0fChhPMHYyLWBa-_Mp8y4mNo6tTzklWA4BGUduAnWeYmK4xMRwi4nhERPDKyaGT0wMv4BS138BpZqYGbqYGSYxs3Ic1JZgmcXMsIiZQYrX3NzcwtQk1STV1CDVWEFIY8unBavZjJQmMTJFRJxilDI0NzA0MjY3MLUwsjDRszBJsyj0Nc72jfQ0tGKWYnTzYA1iMzc3MTJxitLiYvYKiIT4leGDvRRzaLCL4m2Tbdeb7lXba4HkDJ_oHRJ5emmFfRJrap5uRERGE18BYxcjhwCjB2MEYwXjK0aQnh8gvwMAYz3wL8oBAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "e98f83b0-fd8f-4aa9-bab0-ee5f3d325281@5_6-157"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 994923,
+            "masterHotelId": 994923,
+            "hotelName": "Shinjuku Prince Hotel",
+            "hotelEnName": "Shinjuku Prince Hotel",
+            "hotelImg": "https://aw-d.tripcdn.com/images/0224l120003xhzx148D42_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/0224l120003xhzx148D42_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/0224l120003xhzx148D42_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "1 Chome-30-1 Kabukicho",
+            "superStar": 1,
+            "favorityCount": 36426,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 176,
+            "originPrice": 204,
+            "onlineTaxPrice": "220",
+            "onlineAndShopTaxPrice": "221.11",
+            "isEncrypt": false,
+            "payAtHotelTax": 7,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 3 mins ago"
+                }
+            ],
+            "openYear": "1977",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 221{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.3",
+            "commentDescription": "Very Good",
+            "commenterNumber": "540 reviews",
+            "subScore": [
+                {
+                    "number": "4.5",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.3",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.4",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.1",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1457687481,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Standard Double Room, Non-Smoking",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_double_bed"
+                ],
+                "contentListHover": [
+                    "1 double bed(1.4m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Kabukicho | Shinjuku Area",
+            "positionName": "Near Kabukicho|Shinjuku Area",
+            "positionInfo": "6.4 km from center",
+            "transport": {
+                "type": 7,
+                "distanceDesc": "270 m from Shinjuku-Nishiguchi subway station"
+            },
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.6944772,
+                "lng": 139.70013369999998,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Shinjuku Area"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.6944772",
+                    "longitude": "139.70013369999998",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 6.413771
+        },
+        "minRoomInfo": {
+            "roomId": 1457687481,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "",
+                "tagTitle": "DISCOUNTPERCENT",
+                "tagId": 90001,
+                "tagDesc": "",
+                "value": "11",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "Easy to get around|Convenient for shopping",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "",
+                "tagTitle": "PROMOTION",
+                "tagId": 11600,
+                "tagDesc": "Special Discount",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "discountLabels": [
+            {
+                "type": 20,
+                "text": "−11%",
+                "value": "11"
+            },
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204956"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAOP6wszFJMEkxMTBKPWSmWPn9K7trEKcxpZGxgZGhgZGBiv5La5mOdpyXV9cMHmyg6cxCEza5xDAU8gAAgn9DpMYbThBzIYvDxwEQQyHc7cdlBQUWDTBKhjSHQxhDItnnEGsHJ0iEixRDE5sHGd3MEqwTGK0g2if_QSi_cHTB0jaE3Kh2oEMiPZrkiDtGoxAA9Y_oMAAJnQDHA7dgxhwwOImkgEPUqEGABkQA6YKgw1gBhqwczkFBrDADJjB-PqOzUbGN4E75FrLZzjsYGQ6wPj7PxQwnmDcwLiA6dutizK7mFg5XiRIMB1iYuO4thqo8RQTwyUmhltMDI-AMvdzJVheMTF8YmL4BZS_cBAo38TM0MXMMImZlWO1kgTLLCD9U1SCZREzgxSvubm5halJqkmqqUGqsYKQxpZPC1azGSlNYmSKiDjFKGVobmBoZGxuYGphZGGiZ2GSZlHoa5ztG-lpaMUsxejmwRrEZupkbGJuFKXFxewVECkIieMP9lLMocEuirdNtl1vuldtrwWSM3yid0jk6aUV9kmsqXm6EREZTXwFjF2MHAKMHowRjBWMrxhBen6AAgEAxq7J2o8CAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 17015322,
+            "masterHotelId": 17015322,
+            "hotelName": "THE KNOT TOKYO Shinjuku",
+            "hotelEnName": "THE KNOT TOKYO Shinjuku",
+            "hotelImg": "https://aw-d.tripcdn.com/images/220b12000000rkl2pC236_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/220b12000000rkl2pC236_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/220b12000000rkl2pC236_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "4 Chome-31-1 Nishi",
+            "superStar": 1,
+            "favorityCount": 13658,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 181,
+            "originPrice": 203,
+            "onlineTaxPrice": "200",
+            "onlineAndShopTaxPrice": "200.698",
+            "isEncrypt": false,
+            "payAtHotelTax": 5,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 32 mins ago"
+                }
+            ],
+            "openYear": "1979",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 201{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 3,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.5",
+            "commentDescription": "Great",
+            "commenterNumber": "116 reviews",
+            "subScore": [
+                {
+                    "number": "4.2",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.6",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.6",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.5",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 159019046,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Deluxe Twin Room",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_twobeds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1.1m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near JR Shinjuku Station | Shinjuku Area",
+            "positionName": "Near JR Shinjuku Station|Shinjuku Area",
+            "positionInfo": "7.2 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.6885337,
+                "lng": 139.6884765,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Shinjuku Area"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.6885337",
+                    "longitude": "139.6884765",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 7.1858537
+        },
+        "minRoomInfo": {
+            "roomId": 159019046,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "",
+                "tagTitle": "DISCOUNTPERCENT",
+                "tagId": 90001,
+                "tagDesc": "",
+                "value": "10",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "Great stay!|Great location",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "",
+                "tagTitle": "PROMOTION",
+                "tagId": 11600,
+                "tagDesc": "Special Discount",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "discountLabels": [
+            {
+                "type": 20,
+                "text": "−10%",
+                "value": "10"
+            },
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204956"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAON6zMzFJMEkxMTBKHWDmWPZg5feFhOFHIN2yLW-Np7i4BnTf-hrxtHdDgE8hQwg4NHhMInRmhPMXnvNQRBEO7hddlBSUGDRBIsyJDkYwhgWzziDWDke8kuwRDE4sXLsrJZgmcRoB9H98ylU99pHSLofpEB1AxkQ3S8ZJZiiGDQYndg45r5nRDKg4DnEAIY3j5EMcEiDGgBkQAzYKgyyXoMJaMD0_2ADbPG5fwHM_Qtg7l8pADaAGe4DvPoTEqH6gQyI_sMQH7BA9c9gnHWkj2MjIyhoNUxaHHYwMh1g_P0fChhPMG5lXMD0u7WHYxcTG8elB2wSLIeYWDk-ukmwnGJiuMTEcIuJ4RFQ4HuIBMsrJoZPTAy_gOq-rwH6rImZoYuZYRIzK8d0PgmWWUD6H9Dpi5gZpHjNzc0tTE1STVJNDVKNFYQ0tnxasJrNSGkSI1NExClGKUNzA0MjY3MDUwsjCxM9C5M0i0Jf42zfSE9DK2YpRjcP1iA2MwNjY0PXKC0uZq-ASEjAM3ywl2IODXZRvG2y7XrTvWp7LZCc4RO9QyJPL62wT2JNzdONiMho4itg7GLkEGD0YIxgrGB8xQjS8wMcCgBP49ZvfwIAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 688367,
+            "masterHotelId": 688367,
+            "hotelName": "Mitsui Garden Hotel Shiodome Italia-Gai - Tokyo",
+            "hotelEnName": "Mitsui Garden Hotel Shiodome Italia-Gai - Tokyo",
+            "hotelImg": "https://aw-d.tripcdn.com/images/02039120008g86458D810_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/02039120008g86458D810_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/02039120008g86458D810_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "2 Chome-14-24",
+            "superStar": 1,
+            "favorityCount": 21772,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 207,
+            "originPrice": "",
+            "onlineTaxPrice": "228",
+            "onlineAndShopTaxPrice": "229.842",
+            "isEncrypt": false,
+            "payAtHotelTax": 8,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 1 hr ago"
+                }
+            ],
+            "openYear": "2007",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 230{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.4",
+            "commentDescription": "Very Good",
+            "commenterNumber": "217 reviews",
+            "subScore": [
+                {
+                    "number": "4.4",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.5",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.5",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.3",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1333949716,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Superior Twin Room Non-Smoking",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_twobeds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1.2m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Tokyo Tower | Shiodome",
+            "positionName": "Near Tokyo Tower|Shiodome",
+            "positionInfo": "1.4 km from center",
+            "transport": {
+                "type": 7,
+                "distanceDesc": "440 m from Shiodome subway station"
+            },
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.660281399999995,
+                "lng": 139.7569564,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Shiodome"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.660281399999995",
+                    "longitude": "139.7569564",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 1.4214354
+        },
+        "minRoomInfo": {
+            "roomId": 1333949716,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "Great stay!|Convenient location",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [],
+        "discountLabels": [],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204956"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAOPazsTFJMEkxMTBKLWGiWPKq84_LEKchoaWhpYW5gZGBjcFLR6XOD6sElnnLjndwfObRkz_oUP7HQJ4JjFKcTKAgMIdB0EwQ-OWgxMbR99MRgmWSYwyEEn72xDJA2E3HTQYgdIrpyBLb30BkXb49cxBgwko3dDLhCS99z5UuuWugwYzUPrxGpyGs8AMn8H4vlFrIyPEye0OOxiZDjD-_g8FjCcYzzMuYJqxZJHWLiY2ju2_2SRYDjGxcrQGSrCcYmK4xMRwi4nhERPDKyaGT0wMv4BKlm4CmtnEzNDFzDCJmZVjtoAEyyxmhkXMDFK85ubmFqYmqSappgapxgpCGls-LVjNZqQ0iZEpIuIUo5ShuYGhkbG5gamFkYWJnoVJmkWhr3G2b6SnoRWzFKObB2sQm5ujs6uzcZQWF7NXQCQkFBk-2Esxhwa7KN422Xa96V61vRZIzvCJ3iGRp5dW2CexpubpRkRkNPEVMHYxcggwejBGMFYwvmIE6fkB8joAOMFTxNIBAAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 52850946,
+            "masterHotelId": 52850946,
+            "hotelName": "Nohga Hotel Akihabara Tokyo",
+            "hotelEnName": "Nohga Hotel Akihabara Tokyo",
+            "hotelImg": "https://aw-d.tripcdn.com/images/0225d1200082j0guu4D24_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/0225d1200082j0guu4D24_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/0225d1200082j0guu4D24_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "3 Chome-10-11 Sotokanda",
+            "superStar": 1,
+            "favorityCount": 5919,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 175,
+            "originPrice": 180,
+            "onlineTaxPrice": "193",
+            "onlineAndShopTaxPrice": "194.582",
+            "isEncrypt": false,
+            "payAtHotelTax": 8,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LowestPriceWillSellout",
+                    "additionText": "Only 1 room left"
+                },
+                {
+                    "additionName": "VeryClean",
+                    "additionText": "Very Clean 4.8/5"
+                }
+            ],
+            "openYear": "2020",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 195{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 4,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.7",
+            "commentDescription": "Amazing",
+            "commenterNumber": "202 reviews",
+            "subScore": [
+                {
+                    "number": "4.7",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.8",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.8",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.6",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1344133774,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Twin Room(Booth with rain shower only)",
+            "isBooking": false,
+            "bed": {
+                "list": [
+                    "ic_new_twobeds"
+                ],
+                "contentListHover": [
+                    "2 single beds(1m wide)"
+                ],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Akihabara | Kanda",
+            "positionName": "Near Akihabara|Kanda",
+            "positionInfo": "3.3 km from center",
+            "transport": {
+                "type": 7,
+                "distanceDesc": "320 m from Suehirocho subway station"
+            },
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.7009269,
+                "lng": 139.770669,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Kanda"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.7009269",
+                    "longitude": "139.770669",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 3.3444901
+        },
+        "minRoomInfo": {
+            "roomId": 1344133774,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "",
+                "tagTitle": "DISCOUNTAMOUNT",
+                "tagId": 90001,
+                "tagDesc": "",
+                "value": "5",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "Easy to get around|Great amenities",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "",
+                "tagTitle": "PROMOTION",
+                "tagId": 11600,
+                "tagDesc": "Special Discount",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "discountLabels": [
+            {
+                "type": 21,
+                "text": "",
+                "value": "5"
+            },
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204956"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAON6wszFJMEkxMTBKHWTmaNv6_cGVovfgo6aMf2HvrZOdvCsFlnnnnhjl0MATyEDCCQkO0xitOEEMQ9U3HEQBAsuuOmgpKDAognmMNg7GMIYFs84g1g51jNLsEQxOLFx_J_FKMEyidEOrJ3B8y5Eu0P0LWTtDjDtDlDte8DaNRiBBmybDzbAFmxAQu1DqAHV9x2U5OEGOMMMcAYbwMJhKsEE1M8E0r8PSX9D-g2I_gPfriLrt4bpt4bqVwXrZwbqf9tCvn4WmP4ZjE2PZkpuZJw1Ewjamx12MDIdYPz9HwoYTzCuZ1zANAGoZBcTG8euJjYJlkNMrBxv2SSYTjExXGJiuMXE8Ago8FBAguUVE8MnJoZfQHU9oKBtYmboYmaYxMzKcYtXgmUWkF4LDLtFzAxSvObm5hamJqkmqaYGqcYKQhpbPi1YzWakNImRKSLiFKOUobmBoZGxuYGphZGFiZ6FSZpFoa9xtm-kp6EVsxSjmwdrEJu5i4WRo2WUFhezV0AkJN4ZPthLMYcGuyjeNtl2veletb0WSM7wid4hkaeXVtgnsabm6UZEZDTxFTB2MXIIMHowRjBWML5iBOn5AQ4FABsQfV6AAgAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": "T"
+        }
+    },
+    {
+        "hotelBasicInfo": {
+            "hotelId": 76254666,
+            "masterHotelId": 76254666,
+            "hotelName": "Asakusa Tosei Cocone Hotel",
+            "hotelEnName": "Asakusa Tosei Cocone Hotel",
+            "hotelImg": "https://aw-d.tripcdn.com/images/02034120008vv2ulrDC51_R_640_440_R5_D.jpg_.webp",
+            "hotelImgRoundLoad": [
+                {
+                    "position": 5,
+                    "group": 1,
+                    "url": "https://aw-d.tripcdn.com/images/02034120008vv2ulrDC51_R_250_250_R5_D.jpg_.webp"
+                },
+                {
+                    "position": 5,
+                    "group": 2,
+                    "url": "https://aw-d.tripcdn.com/images/02034120008vv2ulrDC51_R_600_600_R5_D.jpg_.webp"
+                }
+            ],
+            "hotelAddress": "3 Chome-26-10 Asakusa",
+            "superStar": 1,
+            "favorityCount": 2988,
+            "browseCount": 0,
+            "topRecommend": false,
+            "topRecommendReason": "",
+            "payType": 1,
+            "isAdHotel": false,
+            "adTraceid": "H4sIAAAAAAAAAOP49fTvj4OGAowGXB6MAYxRrIZWRkYWCUwFrB2MchMY/WYwMgEAfLz3eCMAAAA=",
+            "isAdSlot": false,
+            "starIcon": "",
+            "hourRoomHours": "",
+            "hourEarliestArriveTime": "",
+            "hourLatestArriveTime": "",
+            "price": 110,
+            "originPrice": 125,
+            "onlineTaxPrice": "121",
+            "onlineAndShopTaxPrice": "121.472",
+            "isEncrypt": false,
+            "payAtHotelTax": 1,
+            "isCollected": false,
+            "isFullRoom": false,
+            "hotelCloseInfo": null,
+            "canNotBeOrderedInfo": {
+                "messageBold": "",
+                "cannotReserveCode": ""
+            },
+            "isPriceMask": 0,
+            "medalInfo": {
+                "medalType": null,
+                "description": null,
+                "badgeHover": ""
+            },
+            "wowHotel": false,
+            "lastBookingTimeRemark": "",
+            "additionTexts": [
+                {
+                    "additionName": "ChildrenNormalTag",
+                    "additionText": ""
+                },
+                {
+                    "additionName": "LastBooking",
+                    "additionText": "Last booked 14 hours ago"
+                }
+            ],
+            "openYear": "2021",
+            "guestInfoEntity": {
+                "childAge": [],
+                "childBed": [],
+                "childMeal": [],
+                "childType": [],
+                "guestHover": "",
+                "childCount": 0,
+                "adultCount": 0
+            },
+            "signInNote": "",
+            "hidePrice": false,
+            "priceExplanation": "After tax {0}US$ 121{/0} per night",
+            "payAtHotelTaxText": "",
+            "hotelMultiImgs": []
+        },
+        "hotelDecorateInfo": {},
+        "hotelFeatureTagInfo": [],
+        "hotelStarInfo": {
+            "star": 3,
+            "isLicenseStar": false,
+            "starType": 1
+        },
+        "commentInfo": {
+            "commentScore": "4.5",
+            "commentDescription": "Great",
+            "commenterNumber": "55 reviews",
+            "subScore": [
+                {
+                    "number": "4.5",
+                    "content": "Location",
+                    "scoreType": 2
+                },
+                {
+                    "number": "4.5",
+                    "content": "Cleanliness",
+                    "scoreType": 3
+                },
+                {
+                    "number": "4.5",
+                    "content": "Service",
+                    "scoreType": 4
+                },
+                {
+                    "number": "4.5",
+                    "content": "Amenities",
+                    "scoreType": 5
+                }
+            ],
+            "tARatingInfo": null,
+            "taAlt": "",
+            "taUrl": "",
+            "taCount": 0,
+            "taReview": ""
+        },
+        "roomInfo": {
+            "roomId": 1438111212,
+            "shadowId": 0,
+            "name": "",
+            "adult": 0,
+            "physicalRoomName": "Run of House",
+            "isBooking": false,
+            "bed": {
+                "list": [],
+                "contentListHover": [],
+                "contentList": [
+                    "Bed type randomly assigned"
+                ],
+                "cpxBedInfo": {}
+            }
+        },
+        "positionInfo": {
+            "cityId": 228,
+            "cityName": "Tokyo",
+            "cityNameEn": "Tokyo",
+            "positionDesc": "Near Sensō-ji | Ueno/Asakusa",
+            "positionName": "Near Sensō-ji|Ueno/Asakusa",
+            "positionInfo": "5.9 km from center",
+            "transport": {},
+            "coordinate": {
+                "cityId": 228,
+                "lat": 35.716607499999995,
+                "lng": 139.79833829999998,
+                "isOversea": true,
+                "coordinateType": 1
+            },
+            "zoneNames": [
+                "Ueno/Asakusa"
+            ],
+            "isOversea": true,
+            "mapCoordinate": [
+                {
+                    "coordinateType": 1,
+                    "latitude": "35.716607499999995",
+                    "longitude": "139.79833829999998",
+                    "gcoordType": "WGS84"
+                }
+            ],
+            "linearDist": 5.8802199
+        },
+        "minRoomInfo": {
+            "roomId": 1438111212,
+            "roomName": "",
+            "shadowId": 0,
+            "encryptedRoomId": 0
+        },
+        "tags": [
+            {
+                "name": "",
+                "tagTitle": "DISCOUNTPERCENT",
+                "tagId": 90001,
+                "tagDesc": "",
+                "value": "11",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "Great stay!|Clean and tidy",
+                "tagTitle": "OneSentenceComment",
+                "tagId": 0,
+                "tagDesc": "",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            },
+            {
+                "name": "",
+                "tagTitle": "PROMOTION",
+                "tagId": 11600,
+                "tagDesc": "Special Discount",
+                "value": "",
+                "subTagId": 0,
+                "tagPosition": 0,
+                "labelExtensions": []
+            }
+        ],
+        "saleRoom": {
+            "person": 2,
+            "mealNum": 0,
+            "mealType": 4
+        },
+        "promotion": [
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "discountLabels": [
+            {
+                "type": 20,
+                "text": "−11%",
+                "value": "11"
+            },
+            {
+                "type": 1,
+                "tagIcon": "ic_tag_sale",
+                "text": "Special Discount"
+            }
+        ],
+        "specialPriceLabels": [],
+        "memberGrade": {},
+        "trace": {
+            "traceLogId": "777854e4e50e3",
+            "timestamp": "1701329204956"
+        },
+        "extensions": {
+            "hotelUniqueKey": "H4sIAAAAAAAAAON6z8zFJMEkxMTBKPWEmePN6vtrWYU4zc3NzSwMDAyMDFYzW9zSc0wDgZYOB89ZM2fOjLy9wSGAp5ABBCY0OExitOYEMR3ELzkIggVXn3VQUlBg0QRzGiIcDGEMi2ecQawct7kkWKIYnFg59iVJsExitIXo7r8M0X2A8wKy7iiY7iio7lPcIN0ajED9e7NA-u3A-hOcHkJt97uDpD8hHaofyIDo3y4C1s_kxMbxdTcjwgEMxSegBvAcQTLgQADUACADYsB8drABzEAHHHNC0p9-Cqp_2VEk_QxBUP1ABkT_S4h-FqD-9-4SLDMYT81ep7KR8WGVyDr3zgqHHYxMBxh__4cCxhOMeQuY7h1pNdzFxMYxdzKLBMshJlaOVm0JllNMDJeYGG4xMTwCCjyxlGB5xcTwiYnhF5A3HxgwTcwMXcwMk5hZOc5xSLDMAtLHgSG3iJlBihcYuxamJqkmqaYGqcYKQhpbPi1YzWakNImRKSLiFKOUobmBoZGxuYGphZGFiZ6FSZpFoa9xtm-kp6EVsxSjmwdrEJuxobGjoUWUFhezV0AkxNcMH-ylmEODXRRvm2y73nSv2l4LJGf4RO-QyNNLK-yTWFPzdCMiMpr4Chi7GDkEGD0YIxgrGF8xgvT8AIcBAFnB9g-LAgAA",
+            "quarantineTip": "",
+            "recommendFilter": 0,
+            "priceHigh": -1,
+            "attachedFilters": [],
+            "dispatchId": "0e8ec080-c175-4a55-9a6e-24ed663e1a08-104"
+        },
+        "queryType": "NORMAL",
+        "isCombinedRoom": false,
+        "combinedRoomQuality": null,
+        "extras": {
+            "COMPENSATE_FILTER_ITEMS_INDEX": null,
+            "PropertyCurrency": "JPY",
+            "PropertyCurrencyExchange": "0.048484",
+            "PriceCalendarRecommend": null,
+            "ChildPriceRoom": null
+        }
+    }
+]
