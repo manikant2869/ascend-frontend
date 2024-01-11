@@ -117,15 +117,19 @@ export default function Main() {
             item_id: "",
           };
         });
-        fetchData();
+        setTimeout(() => {
+          fetchData();
+        }, 500);
       }
     } else {
-      setRemoveTaskItem((prev) => {
-        return {
-          toggle: !prev.toggle,
-          item_id: "",
-        };
-      });
+      setTimeout(() => {
+        setRemoveTaskItem((prev) => {
+          return {
+            toggle: !prev.toggle,
+            item_id: "",
+          };
+        });
+      }, 500);
     }
   }
   function handleAddListItem(i) {
@@ -163,18 +167,19 @@ export default function Main() {
   }
   return (
     <div
-      style={toggle ? { backgroundColor: "darkslategrey", zIndex: "10" } : {}}
+      // style={toggle ? { backgroundColor: "darkslategrey", zIndex: "10" } : {}}
+      className="sptb"
     >
       <div className="containers mx-3 ">
         <div
-          className="mt-4 ms-5 d-flex"
-          style={{ overflowX: "auto", maxWidth: "2000px" }}
+          className="mt-4 ms-5 d-flex scroll-x"
         >
           <div className="d-flex">
             <div className="task-create-box">
               <p className="task-heading">CREATE NEW LIST</p>
               <div className="text-center mt-4">
                 <AddCircleOutlineRoundedIcon
+                  type="button"
                   sx={{ fontSize: "50px" }}
                   onClick={() => {
                     setToggle(!toggle);
@@ -312,25 +317,25 @@ export default function Main() {
                   <h5 className="modal-title">task completed !!!!</h5>
                 </div>
                 <div className="modal-body">
-                    <button
-                      className="btn btn-success m-2 p-3"
-                      type="button"
-                      onClick={() => {
-                        deleteTaskItem(true);
-                      }}
-                    >
-                      Yup
-                    </button>
-                    <button
-                      className="btn btn-danger m-2 p-3"
-                      type="button"
-                      onClick={() => {
-                        deleteTaskItem(false);
-                      }}
-                    >
-                      Nope
-                    </button>
-                  </div>
+                  <button
+                    className="btn btn-success m-2 p-3"
+                    type="button"
+                    onClick={() => {
+                      deleteTaskItem(true);
+                    }}
+                  >
+                    Yup
+                  </button>
+                  <button
+                    className="btn btn-danger m-2 p-3"
+                    type="button"
+                    onClick={() => {
+                      deleteTaskItem(false);
+                    }}
+                  >
+                    Nope
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -340,7 +345,7 @@ export default function Main() {
         {toggle ? (
           <>
             <div
-              className="modal d-block mt-5 pt-5"
+              className="modal  d-block mt-5 pt-5"
               tabIndex={-1}
               role="dialog"
             >

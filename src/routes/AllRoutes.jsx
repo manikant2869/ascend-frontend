@@ -21,7 +21,7 @@ function AllRoutes() {
   : (
     <DefaultLayout>
       <Routes>
-      {/* <Route exact path="/" element={<Main />} /> */}
+        <Route exact path="/" element={<Main />} />
         <Route exact path="/signup" element={<Signup />} />
         <Route exact path="/login" element={<Login />} />
       </Routes>
